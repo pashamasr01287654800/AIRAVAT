@@ -6,7 +6,7 @@
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
-### This project is not my design, but I have made modifications, improvements and continuous development.
+### This project is not my design, but I have made modifications, improvements and continuous development
 
 ## Features
  - Read all the files of Internal Storage
@@ -89,7 +89,9 @@
        <string name="google_storage_bucket">your_storageBucket</string>
        <string name="project_id">your_projectId</string>
        ```
- 1. Now compile the code with appt2.
+ 1. After saving the changes, in the strings.xml file
+ 1. Click on Smali
+ 1. Click on the key sign that means apk assembly.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### Tutorial Videos
   1. https://t.me/AiravatRat/3 (Mr.Ethical YT)
