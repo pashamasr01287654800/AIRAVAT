@@ -87,6 +87,7 @@
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id`
  1. with your Firebase Account using `google-services.json` file which you have downloaded on step 5
  # What is the method of modification?
+ 
     - Example 
        ```xml 
        <string name="firebase_database_url">https://your_databaseURL.firebase.com</string>
