@@ -8,8 +8,6 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@pasha0128-blue.svg?style=flat-square)](https://telegram.me/pasha0128)
-
 </div>
 
 ## Features
