@@ -35,6 +35,8 @@
  - Runs In Background 
     - Auto Starts on restarting the device
     - Auto Starts when any notification arrives
+    - Accepts shape changes
+    - Accepts name and photo changes
  - No port forwarding needed
 
 <img align=center src=./.github/img.jpg >
