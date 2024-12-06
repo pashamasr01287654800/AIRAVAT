@@ -98,3 +98,21 @@
 [![Stargazers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
 
 [![Forkers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/forks/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/network/members)
+
+
+
+## DISCLAIMER
+<p align="center">
+ TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+</p>
+
+
+The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+
+
+
+
+
+
+
+
