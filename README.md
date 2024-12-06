@@ -7,6 +7,7 @@
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
 <div align="center">
+</div>
 
 ## Features
  - Read all the files of Internal Storage
