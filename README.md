@@ -37,6 +37,7 @@
     - Auto Starts when any notification arrives
     - Accepts shape changes
     - Accepts name and photo changes
+ - The victim cannot simply delete it
  - No port forwarding needed
 
 <img align=center src=./.github/img.jpg >
