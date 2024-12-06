@@ -84,7 +84,8 @@
  1. Download [hydra.apk](./ANDROID%20APP/hydra.apk)
  1. Unpack or edit the apk using any software recommended above.
  1. Now open `res/values/strings.xml` file.
- 1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` 1. with your Firebase Account using `google-services.json` file which you have downloaded on step 5
+ 1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id`
+ 1. with your Firebase Account using `google-services.json` file which you have downloaded on step 5
     - Example 
        ```xml 
        <string name="firebase_database_url">https://your_databaseURL.firebase.com</string>
