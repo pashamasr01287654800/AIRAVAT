@@ -44,8 +44,9 @@
 
 ## Requirements
  - Firebase Account
- - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool M](https://github.com/pashamasr01287654800/AIRAVAT/raw/refs/heads/main/com.gmail.heagoo.apkeditor.pro.apk) ( for Android)
+ - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows)
+    - ( For PC ) or
+ - [ApkTool M](https://github.com/pashamasr01287654800/AIRAVAT/raw/refs/heads/main/com.gmail.heagoo.apkeditor.pro.apk) ( for Android)
 
 
 ## How to Build 
