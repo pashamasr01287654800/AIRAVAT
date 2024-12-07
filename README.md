@@ -100,7 +100,7 @@
        ```
  1. After saving the changes, in the strings.xml file
  1. Click on Smali
- 1. Click on the key sign that means apk assembly.
+ 1. Click on the key sign that means apk assembly.&Compile/sign the apk file.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### Tutorial Videos
   1. https://t.me/AiravatRat/3 (Mr.Ethical YT)
